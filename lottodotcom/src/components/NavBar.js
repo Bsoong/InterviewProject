@@ -21,8 +21,9 @@ export default function App() {
         <div>
         <a className="navbar-brand mt-2 mt-lg-0" href="https://lotto.com">
         <img
-          src={LottoLogo}
-          height="35"
+          style={{marginLeft: 20}}
+          src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/6836/brand.gif?itok=1PYYU1HF"
+          height="50"
           alt="Lotto Logo"
           loading="lazy"
         />
