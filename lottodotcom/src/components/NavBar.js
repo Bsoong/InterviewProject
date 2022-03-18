@@ -19,10 +19,10 @@ export default function App() {
       <MDBContainer fluid>
         <MDBNavbarBrand href='#'><div>
         <div>
-        <a class="navbar-brand mt-2 mt-lg-0" href="https://lotto.com">
+        <a className="navbar-brand mt-2 mt-lg-0" href="https://lotto.com">
         <img
           src={LottoLogo}
-          height="15"
+          height="35"
           alt="Lotto Logo"
           loading="lazy"
         />
